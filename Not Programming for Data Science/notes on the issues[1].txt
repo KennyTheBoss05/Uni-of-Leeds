@@ -1,0 +1,20 @@
+notes on the issues noticed in the dataset 
+
+- A1_one need to make proper grouping on the nationality (done)
+- A4 change the nan to none (done)
+- A5 for the non numeric values put in the mode or mean (done)
+- D1 empty cells should be filled more than 3 years (done)
+- D2 create another category called 'other' and also split each response and put binary value for it - Kevin
+- D3 empty cells should be refilled as everyday(done)
+- D4 convert these Gamer_ID(20,70,105,249,250,264,282,400,367,411,419,439,449,486,543,555,564 in 3-4 hours (done)
+      putting in average instead of strings
+- D5 we combining no and not yet played, make extreme values into everyday
+- D6 do the same thing as D2
+
+1. There are 86 nan values in column A4
+2. There are 6 nan values in column D1 
+3. There are 5 nan values and 1 non ascii string in column D2
+4. There are 1 nan values in column D3
+5. There are 1 nan values and 3 non ascii strings in column D4
+6. There are 3 non ascii strings in column D6
+7. There are 13 nan values and 27 non ascii in column D7
